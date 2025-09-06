@@ -1,0 +1,5 @@
+{
+  "name": "Lens Cleaner AI",
+  "description": "An AI-powered tool to effortlessly remove lens flares, reflections, and glares from your photos. Upload an image and let the AI clean it up for you, providing a side-by-side comparison and a download option for the enhanced image.",
+  "requestFramePermissions": []
+}
